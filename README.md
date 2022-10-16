@@ -20,6 +20,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil1910&layout=compact" alt="Jonty" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaspatil1910&layout=compact" alt="Tejas" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tejaspatil1910.Tejaspatil1910)
