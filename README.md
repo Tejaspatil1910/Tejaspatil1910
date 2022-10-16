@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tejaspati
+- 👋 Hi, I’m @Tejaspatil
 - 👀 I’m interested in growing my skills
 - 🌱 I’m currently learning Python
 - 📫 How to reach me email:- tejaspatil191001@gmail.com 
